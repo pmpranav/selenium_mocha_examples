@@ -1,0 +1,22 @@
+{
+  "name": "selenium_mocha_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "raw_selenium.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmpranav/selenium_mocha_examples.git"
+  },
+  "dependencies": {
+	"selenium-webdriver" : "2.46.1"
+  },
+  "author": "pmpranav <pmpranav@paypal.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmpranav/selenium_mocha_examples/issues"
+  },
+  "homepage": "https://github.com/pmpranav/selenium_mocha_examples"
+}
